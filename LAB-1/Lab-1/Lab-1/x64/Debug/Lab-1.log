@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\cgf17gij\source\repos\lab-1\lab-1\lab-1\main.cpp(221): warning C4311: 'type cast': pointer truncation from 'HBRUSH' to 'LONG'
+c:\users\cgf17gij\source\repos\lab-1\lab-1\lab-1\main.cpp(221): warning C4302: 'type cast': truncation from 'HBRUSH' to 'LONG'
+c:\users\cgf17gij\source\repos\lab-1\lab-1\lab-1\main.cpp(233): warning C4311: 'type cast': pointer truncation from 'HBRUSH' to 'LONG'
+c:\users\cgf17gij\source\repos\lab-1\lab-1\lab-1\main.cpp(233): warning C4302: 'type cast': truncation from 'HBRUSH' to 'LONG'
+c:\users\cgf17gij\source\repos\lab-1\lab-1\lab-1\main.cpp(245): warning C4311: 'type cast': pointer truncation from 'HBRUSH' to 'LONG'
+c:\users\cgf17gij\source\repos\lab-1\lab-1\lab-1\main.cpp(245): warning C4302: 'type cast': truncation from 'HBRUSH' to 'LONG'
+c:\users\cgf17gij\source\repos\lab-1\lab-1\lab-1\main.cpp(282): warning C4311: 'type cast': pointer truncation from 'HBRUSH' to 'LONG'
+c:\users\cgf17gij\source\repos\lab-1\lab-1\lab-1\main.cpp(282): warning C4302: 'type cast': truncation from 'HBRUSH' to 'LONG'
+  Lab-1.vcxproj -> C:\Users\cgf17gij\source\repos\LAB-1\Lab-1\x64\Debug\Lab-1.exe
